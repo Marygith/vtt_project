@@ -1,2 +1,2 @@
-Путь к репозиторию с фронтендом:
+Path to frontend repo
 https://github.com/Marygith/vtt-frontend
